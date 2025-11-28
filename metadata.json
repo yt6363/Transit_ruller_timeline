@@ -1,0 +1,5 @@
+{
+  "name": "SIDEREAL.OS Timeline",
+  "description": "A mission-control style visualization of planetary transits, signs, and nakshatras over time.",
+  "requestFramePermissions": []
+}
